@@ -1,4 +1,6 @@
-document.getElementById("geo").onclick = function() {myFunction()};
+window.onload = function() {
+   document.getElementById("geo").onclick = function() {myFunction()};
+};
 
 function myFunction() {
   var xmlhttp = new XMLHttpRequest();
