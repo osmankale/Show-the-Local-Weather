@@ -1,5 +1,5 @@
 $(document).ready(function() {
- var url = 'api.openweathermap.org/data/2.5/weather?';
+ var url = 'http://api.openweathermap.org/data/2.5/weather?';
   var key = 'affd2555edfbfdbd2e7348555a78b729';
   
   
